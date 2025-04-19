@@ -1,4 +1,4 @@
-# CreateImageAWS
+# CreateImageXP
 
 AWS BedrockのNova Canvasモデルを使用した画像生成iOSアプリケーション
 
