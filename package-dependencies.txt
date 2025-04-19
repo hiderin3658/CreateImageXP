@@ -1,0 +1,24 @@
+# Core Navigation
+@react-navigation/native
+@react-navigation/native-stack
+react-native-screens
+react-native-safe-area-context
+
+# AWS
+aws-amplify
+
+# Storage & Media
+@react-native-async-storage/async-storage
+expo-file-system
+expo-media-library
+expo-sharing
+
+# UI Components
+@react-native-community/slider
+@expo/vector-icons
+
+# Helpers
+expo-status-bar
+
+# Install Command:
+# npx expo install @react-navigation/native @react-navigation/native-stack react-native-screens react-native-safe-area-context aws-amplify @react-native-async-storage/async-storage expo-file-system expo-media-library expo-sharing @react-native-community/slider @expo/vector-icons expo-status-bar 

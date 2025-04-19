@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "ImageGeneratorApp",
+    "slug": "ImageGeneratorApp",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.windsurf.imagegenerator"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.windsurf.imagegenerator"
+    },
+    "web": {
+    },
+    "plugins": [
+      "expo-media-library",
+      "expo-file-system"
+    ]
+  }
+} 
